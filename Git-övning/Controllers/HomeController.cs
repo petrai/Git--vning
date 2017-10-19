@@ -10,7 +10,6 @@ namespace Git_övning.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Nope!";
             return View();
         }
 
