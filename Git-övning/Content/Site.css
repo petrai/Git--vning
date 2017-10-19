@@ -23,3 +23,11 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.dumclass
+{
+    color: red;
+    text-shadow: 20px 20px 5px #808080;
+    padding: 20px;
+    text-align: center;
+}
