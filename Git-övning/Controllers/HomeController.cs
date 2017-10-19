@@ -10,7 +10,7 @@ namespace Git_övning.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View("this is my change");
         }
 
         public ActionResult About()
