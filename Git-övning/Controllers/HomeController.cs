@@ -10,6 +10,7 @@ namespace Git_övning.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Message = "THIS is my actual change.";
             return View();
         }
 
