@@ -12,7 +12,7 @@ namespace Git_övning.Controllers
         {
             ViewBag.Message = "Nope för sjutton!";
 
-            return View();
+            return View("the bug from hell");
         }
 
         public ActionResult About()
